@@ -5,7 +5,7 @@ A simple and interactive web application that helps users check their current mo
 
 ## 🌐 Live Demo
 
-Coming soon...
+👉 Mood Checker App — Live Demo
 
 ## ✨ Features
 
