@@ -5,7 +5,7 @@ A simple and interactive web application that helps users check their current mo
 
 ## 🌐 Live Demo
 
-👉 Mood Checker App — Live Demo
+👉 Mood Checker App — Live Demo: https://soni-frontend.github.io/MoodChecker-App/
 
 ## ✨ Features
 
